@@ -1,0 +1,23 @@
+" Special
+let wallpaper  = "/home/lyubo/Wallpapers/bmw4k.jpg"
+let background = "#090807"
+let foreground = "#e9dec9"
+let cursor     = "#e9dec9"
+
+" Colors
+let color0  = "#090807"
+let color1  = "#635E5B"
+let color2  = "#6E6D6D"
+let color3  = "#9C6253"
+let color4  = "#BB9964"
+let color5  = "#7A7F86"
+let color6  = "#999A99"
+let color7  = "#e9dec9"
+let color8  = "#a39b8c"
+let color9  = "#635E5B"
+let color10 = "#6E6D6D"
+let color11 = "#9C6253"
+let color12 = "#BB9964"
+let color13 = "#7A7F86"
+let color14 = "#999A99"
+let color15 = "#e9dec9"
