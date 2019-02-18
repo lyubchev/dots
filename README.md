@@ -1,2 +1,2 @@
 # dots
-git init --bare $HOME/.dots.git
+GitHub repo for my dotfiles for my local setup
