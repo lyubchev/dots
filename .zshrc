@@ -1,4 +1,4 @@
-# If you come from bash you might have to change your $PATH.
+
 (cat ~/.cache/wal/sequences &)
 
 # Alternative (blocks terminal for 0-3ms)
@@ -108,7 +108,7 @@ source /usr/share/nvm/init-nvm.sh
 
 # Key binds
 bindkey '^ ' autosuggest-accept
-
+alias git="hub"
 alias xc="xclip -selection clipboard"
 alias zshconfig="nvim ~/.zshrc"
 alias ohmyzsh="nvim ~/.oh-my-zsh"
