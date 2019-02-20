@@ -109,7 +109,7 @@ source /usr/share/nvm/init-nvm.sh
 # Key binds
 bindkey '^ ' autosuggest-accept
 
-
+alias xc="xclip -selection clipboard"
 alias zshconfig="nvim ~/.zshrc"
 alias ohmyzsh="nvim ~/.oh-my-zsh"
 alias projects="cd ~/Projects/"
