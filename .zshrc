@@ -11,6 +11,7 @@ source ~/.cache/wal/colors-tty.sh
 # Path to your oh-my-zsh installation.
   export ZSH="/home/lyubo/.oh-my-zsh"
   export EDITOR="/usr/bin/nvim"
+  export BROWSER="/usr/bin/google-chrome-stable"
 # Set name of the theme to load --- if set to "random", it will
 # load a random theme each time oh-my-zsh is loaded, in which case,
 # to know which specific one was loaded, run: echo $RANDOM_THEME
@@ -112,6 +113,7 @@ alias git="hub"
 alias xc="xclip -selection clipboard"
 alias zshconfig="nvim ~/.zshrc"
 alias ohmyzsh="nvim ~/.oh-my-zsh"
+alias down="cd ~/Downloads"
 alias projects="cd ~/Projects/"
 alias homework="cd ~/Documents/Projects/Softuni-Homework"
 alias hackaton="cd ~/Documents/Projects/luncher-box-zarathon"
