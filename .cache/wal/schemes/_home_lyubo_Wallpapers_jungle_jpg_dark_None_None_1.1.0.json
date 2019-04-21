@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/lyubo/Wallpapers/jungle.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#05182A",
+        "foreground": "#f4ccc0",
+        "cursor": "#f4ccc0"
+    },
+    "colors": {
+        "color0": "#05182A",
+        "color1": "#0A639B",
+        "color2": "#5C70BA",
+        "color3": "#1779D7",
+        "color4": "#9868A6",
+        "color5": "#0C93EA",
+        "color6": "#418AD3",
+        "color7": "#f4ccc0",
+        "color8": "#aa8e86",
+        "color9": "#0A639B",
+        "color10": "#5C70BA",
+        "color11": "#1779D7",
+        "color12": "#9868A6",
+        "color13": "#0C93EA",
+        "color14": "#418AD3",
+        "color15": "#f4ccc0"
+    }
+}

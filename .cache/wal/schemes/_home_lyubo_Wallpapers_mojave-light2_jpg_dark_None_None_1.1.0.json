@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/lyubo/Wallpapers/mojave-light2.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#201610",
+        "foreground": "#e0dbd4",
+        "cursor": "#e0dbd4"
+    },
+    "colors": {
+        "color0": "#201610",
+        "color1": "#3E5E88",
+        "color2": "#55739B",
+        "color3": "#857B87",
+        "color4": "#6F8DB3",
+        "color5": "#7D9CC1",
+        "color6": "#93A0B8",
+        "color7": "#e0dbd4",
+        "color8": "#9c9994",
+        "color9": "#3E5E88",
+        "color10": "#55739B",
+        "color11": "#857B87",
+        "color12": "#6F8DB3",
+        "color13": "#7D9CC1",
+        "color14": "#93A0B8",
+        "color15": "#e0dbd4"
+    }
+}

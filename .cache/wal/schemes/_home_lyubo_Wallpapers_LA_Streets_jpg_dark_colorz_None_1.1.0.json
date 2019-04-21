@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/lyubo/Wallpapers/LA_Streets.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#221412",
+        "foreground": "#c7c4c3",
+        "cursor": "#c7c4c3"
+    },
+    "colors": {
+        "color0": "#221412",
+        "color1": "#af665b",
+        "color2": "#ad8c83",
+        "color3": "#c78967",
+        "color4": "#a2a69d",
+        "color5": "#9cc6a5",
+        "color6": "#6091aa",
+        "color7": "#c7c4c3",
+        "color8": "#594e4d",
+        "color9": "#af665b",
+        "color10": "#ad8c83",
+        "color11": "#c78967",
+        "color12": "#a2a69d",
+        "color13": "#9cc6a5",
+        "color14": "#6091aa",
+        "color15": "#c7c4c3"
+    }
+}

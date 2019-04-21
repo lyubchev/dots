@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/lyubo/Wallpapers/mojave-dark.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0E182D",
+        "foreground": "#b4b8c2",
+        "cursor": "#b4b8c2"
+    },
+    "colors": {
+        "color0": "#0E182D",
+        "color1": "#41495E",
+        "color2": "#4A576F",
+        "color3": "#55637B",
+        "color4": "#61697E",
+        "color5": "#556982",
+        "color6": "#6B7388",
+        "color7": "#b4b8c2",
+        "color8": "#7d8087",
+        "color9": "#41495E",
+        "color10": "#4A576F",
+        "color11": "#55637B",
+        "color12": "#61697E",
+        "color13": "#556982",
+        "color14": "#6B7388",
+        "color15": "#b4b8c2"
+    }
+}
