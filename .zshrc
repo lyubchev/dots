@@ -133,6 +133,7 @@ alias wallpapers='cd ~/Wallpapers'
 alias cpumonitor='watch grep \"cpu MHz\" /proc/cpuinfo'
 alias cs50ide='docker run --privileged -e "IP=127.0.0.1" -e "PORT=8080" --name ide50 -d -p 5050:5050 -p 8080-8082:8080-8082 cs50/ide'
 
+eval $(thefuck --alias)
 
 prompt_end() {
   if [[ -n $CURRENT_BG ]]; then
