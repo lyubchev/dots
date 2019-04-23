@@ -148,6 +148,10 @@ prompt_end() {
   printf "\n ➜";
 }
 
+pdf() {
+    lowriter --convert-to pdf "$1"
+}
+
 # Import colorscheme from 'wal' asynchronously
 # &   # Run the process in the background.
 # ( ) # Hide shell job control messages.
