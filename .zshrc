@@ -12,6 +12,7 @@ source ~/.cache/wal/colors-tty.sh
   export ZSH="/home/lyubo/.oh-my-zsh"
   export EDITOR="/usr/bin/nvim"
   export BROWSER="/usr/bin/google-chrome-stable"
+  export PATH="$PATH:/usr/local/go/bin"
 # Set name of the theme to load --- if set to "random", it will
 # load a random theme each time oh-my-zsh is loaded, in which case,
 # to know which specific one was loaded, run: echo $RANDOM_THEME
